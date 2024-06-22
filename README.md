@@ -1,4 +1,4 @@
 # muskan-first
 This is my first git repository.
 <br>
-Author - Muskan
+Author - Muskan Kumari
